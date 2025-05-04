@@ -24,17 +24,17 @@ $orange: orange;
 $light-orange: yellow;
 
 // body colors
-$body-text-color: rgb(226, 226, 226);
-$background: rgb(24, 26, 27);
-$code-background: rgb(33, 33, 33);
+$body-text-color: #e1e6ff;
+$background: #1b1f32;
+$code-background: #444b6f;
 $light-gray: hsl(0, 0%, 40%);
 $gray: hsl(0, 0%, 75%);
 
 // link type colors
-$link-color: $nuclear-green;
-$dir-color: $nuclear-green;
-$file-color: $safety-yellow;
-$symlink-color: $purple;
+$link-color: #7289fd;
+$dir-color: #7289fd;
+$file-color: #75d5f0;
+$symlink-color: #8a75f5;
 
 .color-nuclear-green {
     color: $nuclear-green;
@@ -46,7 +46,7 @@ $symlink-color: $purple;
 .color-vga-red { color: $red; }
 
 h1, h2, h3, h4, h5 {
-    color: $green
+    color: #7289fd;
 }
 
 /***********************************
