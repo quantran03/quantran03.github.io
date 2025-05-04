@@ -48,7 +48,7 @@ Currently I enjoy anime, video games, and just spending time with friends. Howev
 
 + **[LoRA Poisoning of Diffusion Models](/dissertation.pdf)**
 
-  Inspired by [Nightshade](https://arxiv.org/abs/2310.13828), a novel poisoning attack targeted at image generation diffusion models, I decided to base my Bachelor's dissertation on developing a poisoning method targeted towards diffusion models using [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685). Although not officially published, the results I found were promising!
+  Inspired by [Nightshade](https://arxiv.org/abs/2310.13828), a novel poisoning attack targeted at image generation diffusion models, I decided to base my Bachelor's dissertation on developing a poisoning method targeted towards diffusion models using [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685). Although not officially published, the results I found were promising! I was supervised by asssitant professor and machine-learning researcher [Atsushi Suzuki](https://ash-suzuki.github.io/).
 
 * * *
 
