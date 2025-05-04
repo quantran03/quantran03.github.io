@@ -99,3 +99,6 @@ _site/
 
 ### Ruby ###
 vendor
+
+### Visual Studio Code ###
+.vscode
