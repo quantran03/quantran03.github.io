@@ -10,9 +10,9 @@ cmd: cat about.md
 
 Welcome to my website! 
 
-I'm Quan, a software engineer currently living in London. I am a a soon-to-be graduate of King's College London, and I will be working at The Trade Desk starting September 2025. Professionally, my interests lie in backend development, scalable systems, and software infrastructure. This website will perhaps contain blog posts of my thoughts on various things, and a small portfolio of things that I've worked on at some point or another.
+I'm Quan, a software engineer currently living in London. I am a soon-to-be graduate of King's College London, and I will be working at The Trade Desk starting September 2025. Professionally, my interests lie in backend development, scalable systems, and software infrastructure. This website will perhaps contain blog posts of my thoughts on various things, and a small portfolio of things that I've worked on at some point.
 
-Currently I enjoy anime, video games, and just spending time with friends. However, I have previously dabbled in a few things such as speedrunning, speedcubing, table tennis and esports production.
+Currently I enjoy anime, video games, and spending time with friends. However, I have previously dabbled in a few things such as speedrunning, speedcubing, table tennis and esports production.
 
 ## Career
 + **[The Trade Desk](https://www.thetradedesk.com/): Software Engineer Intern**
@@ -44,7 +44,7 @@ Currently I enjoy anime, video games, and just spending time with friends. Howev
 ## Projects
 + **[SchemeVault](https://schemevault.willbl.dev/)**
 
-  In collaboration with King's College, AWS, Wiltshire, and 5 other group members, I helped create a web application to index, sort, and query a database of support schemes that would benefit vulnerable families around the UK. It is currently being hosted as a trial service by the incredibly talented [Will BL](https://willbl.dev/). The application has a self-renewing database which discards stale data and scrapes for new data, the data science effort was lead by [Aman Bilkhoo](https://www.linkedin.com/in/aman-bilkhoo-59b133299/), an incredible ML research engineer.
+  In collaboration with King's College, AWS, Wiltshire, and 5 other group members, I helped create a web application to index, sort, and query a database of support schemes that would benefit vulnerable families around the UK. It is currently being hosted as a trial service by the incredibly talented [Will BL](https://willbl.dev/). The application has a self-renewing database which discards stale data and scrapes for new data. The data science effort was lead by [Aman Bilkhoo](https://www.linkedin.com/in/aman-bilkhoo-59b133299/), an incredible ML research engineer.
 
 + **[LoRA Poisoning of Diffusion Models](/dissertation.pdf)**
 
