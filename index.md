@@ -12,7 +12,7 @@ Welcome to my website!
 
 I'm Quan, a software engineer currently living in London. I am a soon-to-be graduate of King's College London, and I will be working at The Trade Desk starting September 2025. Professionally, my interests lie in backend development, scalable systems, and software infrastructure. This website will perhaps contain blog posts of my thoughts on various things, and a small portfolio of things that I've worked on at some point.
 
-Currently I enjoy anime, video games, and spending time with friends. However, I have previously dabbled in a few things such as speedrunning, speedcubing, table tennis and esports production.
+Currently I enjoy anime, video games, and spending time with friends. However, I have previously dabbled in a few things such as [speedrunning](https://www.speedrun.com/users/LOLEnigMatic), [speedcubing](https://www.worldcubeassociation.org/persons/2014QUAN05), table tennis and esports production.
 
 ## Career
 + **[The Trade Desk](https://www.thetradedesk.com/): Software Engineer Intern**
@@ -30,7 +30,7 @@ Currently I enjoy anime, video games, and spending time with friends. However, I
 ## Cool stuff I've done
 + Helped run an Amateur Esports League called [ATDL SEA](https://x.com/atdl_sea), I'm especially proud of my work producing the livestreams. Shoutouts to [Mei](https://linktr.ee/mei_b_artistic) doing a splendid job running the league.
 
-+ In-game production & observing for a Counter-Strike 2 showcase, featured in a charity speedrunning event called [Archiethon](https://archiethon.com/)! Shoutouts to [aco](https://bsky.app/profile/aco.allagarta.live) for being a brilliant co-producer.
++ In-game production & observing for a [Counter-Strike 2 showcase](https://www.youtube.com/watch?v=RshYEH_4jpA), featured in a charity speedrunning event called [Archiethon](https://archiethon.com/)! Shoutouts to [aco](https://bsky.app/profile/aco.allagarta.live) for being a brilliant co-producer.
 
 + Participated in a [speedtyping LAN hosted by Warwick Esports](https://www.twitch.tv/videos/1286660121) and placed in the top 8.
 
