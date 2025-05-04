@@ -1,0 +1,66 @@
+/*
+    vars
+*/
+
+/***********************************
+ *  1. colors
+ ***********************************/
+
+$nuclear-green: #02e30d;
+$clear-blue: #0b4e9b;
+// safety yellow
+$safety-yellow: #f6ff00;
+// fire engine red
+$fire-red: #c11916;
+
+// ansi VGA term colors
+$cyan: cyan;
+$blue: blue;
+// VGA magenta
+$purple: #AA00AA;
+$green: rgb(40, 230, 40);
+$red: #ff0000;
+$orange: orange;
+$light-orange: yellow;
+
+// body colors
+$body-text-color: rgb(226, 226, 226);
+$background: rgb(24, 26, 27);
+$code-background: rgb(33, 33, 33);
+$light-gray: hsl(0, 0%, 40%);
+$gray: hsl(0, 0%, 75%);
+
+// link type colors
+$link-color: $nuclear-green;
+$dir-color: $nuclear-green;
+$file-color: $safety-yellow;
+$symlink-color: $purple;
+
+.color-nuclear-green {
+    color: $nuclear-green;
+}
+.color-clear-blue {
+    color: $clear-blue;
+}
+.color-vga-magenta { color: $purple; }
+.color-vga-red { color: $red; }
+
+h1, h2, h3, h4, h5 {
+    color: $green
+}
+
+/***********************************
+ *  2. fonts
+ ***********************************/
+
+$font-size-base: 12pt;
+$font-family-code: "Fira Code", monospace, serif;
+$font-family: $font-family-code;
+
+/***********************************
+ *  3. dimensions
+ ***********************************/
+
+$lh: 1.5rem; // vertical rhythm
+$max-width: 80ch;
+$breakpoint-wide: $max-width + 12ch;

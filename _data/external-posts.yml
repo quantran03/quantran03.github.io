@@ -1,0 +1,10 @@
+# list of external blog posts to generate "symlinks" to
+- title: "yusuf"
+  href: "https://fiftysix.dev"
+  date: 2024-04-05
+  size: 56
+
+- title: "ptkyr"
+  href: "https://ptkyr.xyz"
+  date: 2025-04-05
+  size: 56

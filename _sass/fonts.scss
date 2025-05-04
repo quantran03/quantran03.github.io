@@ -1,0 +1,35 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: normal;
+    src:
+      url("/fonts/fira-code/FiraCode-Regular.woff") format("woff"),
+      url("/fonts/fira-code/FiraCode-Regular.woff2") format("woff2");
+};
+
+@font-face {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: bold;
+    src:
+      url("/fonts/fira-code/FiraCode-Bold.woff") format("woff"),
+      url("/fonts/fira-code/FiraCode-Bold.woff2") format("woff2");
+};
+
+@font-face {
+    font-family: 'Fira Code';
+    font-style: italic;
+    font-weight: normal;
+    src:
+      url("/fonts/fira-code/FiraMono-RegularItalic.otf") format("otf"),
+};
+
+@font-face {
+    font-family: 'Fira Code';
+    font-style: italic;
+    font-weight: bold;
+    src:
+      url("/fonts/fira-code/FiraMono-BoldItalic.otf") format("otf"),
+};

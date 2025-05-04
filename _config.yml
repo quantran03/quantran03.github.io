@@ -1,0 +1,88 @@
+# Permalinks
+permalink: "/:title.html"
+
+# Setup
+title:            rank17.dev
+url:              https://rank17.dev
+baseurl:          /
+author: &default-author
+  name:           Quan Tran
+  url:            https://rank17.dev
+  email:          quanabcis2003@gmail.com
+
+encoding: utf-8
+
+exclude:
+  - "website.sublime-project"
+  - "website.sublime-workspace"
+  - "*.log"
+  - "*.fdb_latexmk"
+  - "*.synctex.gz"
+  - "*.aux"
+  - "*.nix"
+  - ".bundle"
+  - ".direnv"
+  - "vendor"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: main
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
+      author: "quan"
+      author: *default_author
+  -
+    scope:
+      path: "notes"
+      type: "pages"
+    values:
+      layout: "main"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..4
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+# Navigation
+nav:
+  - name:           "github"
+    href:           "https://github.com/quantran03"
+    kind:           "dir"
+  - name:           "posts"
+    href:           "/posts"
+    kind:           "dir"
+  # - name:           "notes"
+  #   href:           "/notes"
+  #   kind:           "dir"
+  # - name:           "mail"
+  #   href:           "mailto://e224wang@uwaterloo.ca"
+  #   kind:           "exe"
+  - name:           "about.md"
+    href:           "/"
+    kind:           "file"
+  - name:           "credits.md"
+    href:           "/credits"
+    kind:           "file"
+  - name:           "resume.pdf"
+    href:           "/resume.pdf"
+    kind:           "file"
