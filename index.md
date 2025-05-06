@@ -23,7 +23,7 @@ Currently I enjoy anime, video games, and spending time with friends. However, I
 
   My first internship experience, I worked as a full-stack software engineer assisting in a project which handles the management of resources in operating rooms.
 
-+ **[King's College London](https://www.kcl.ac.uk/  ): Teaching Assitant**
++ **[King's College London](https://www.kcl.ac.uk/  ): Teaching Assistant**
 
   I taught first and second year undergraduate courses part-time.
 
