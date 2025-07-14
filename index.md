@@ -23,7 +23,7 @@ Currently I enjoy anime, video games, and spending time with friends. However, I
 
   My first internship experience, I worked as a full-stack software engineer assisting in a project which handles the management of resources in operating rooms.
 
-+ **[King's College London](https://www.kcl.ac.uk/  ): Teaching Assitant**
++ **[King's College London](https://www.kcl.ac.uk/  ): Teaching Assistant**
 
   I taught first and second year undergraduate courses part-time.
 
@@ -48,7 +48,7 @@ Currently I enjoy anime, video games, and spending time with friends. However, I
 
 + **[LoRA Poisoning of Diffusion Models](/dissertation.pdf)**
 
-  Inspired by [Nightshade](https://arxiv.org/abs/2310.13828), a novel poisoning attack targeted at image generation diffusion models, I decided to base my Bachelor's dissertation on developing a poisoning method targeted towards diffusion models using [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685). Although not officially published, the results I found were promising! I was supervised by asssitant professor and machine-learning researcher [Atsushi Suzuki](https://ash-suzuki.github.io/).
+  Inspired by [Nightshade](https://arxiv.org/abs/2310.13828), a novel poisoning attack targeted at image generation diffusion models, I decided to base my Bachelor's dissertation on developing a poisoning method targeted towards diffusion models using [Low-Rank Adaptation](https://arxiv.org/abs/2106.09685). Although not officially published, the results I found were promising! I was supervised by assistant professor and machine-learning researcher [Atsushi Suzuki](https://ash-suzuki.github.io/).
 
 * * *
 
