@@ -10,7 +10,7 @@ cmd: cat about.md
 
 Welcome to my website! 
 
-I'm Quan, a software engineer currently living in London. I am a graduate of King's College London, and currently, I am working at The Trade Desk since September 2025. Professionally, my interests lie in backend development, scalable and distributed systems, data engineering and software infrastructure. This website will perhaps contain blog posts of my thoughts on various things, and a small portfolio of things that I've worked on at some point.
+I'm Quan, a software engineer currently living in London. I am a graduate of King's College London as part of the class of 2025. As of now, I've been working at The Trade Desk since September 2025. Professionally, my interests lie in backend development, scalable and distributed systems, and data engineering. This website will perhaps contain blog posts of my thoughts on various things, and a small portfolio of things that I've worked on at some point.
 
 Currently I enjoy anime, video games, and spending time with friends. However, I have previously dabbled in a few things such as [speedrunning](https://www.speedrun.com/users/LOLEnigMatic), [speedcubing](https://www.worldcubeassociation.org/persons/2014QUAN05), table tennis and esports production.
 
