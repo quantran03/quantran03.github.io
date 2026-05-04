@@ -29,7 +29,7 @@ Currently I enjoy anime, video games, and spending time with friends. However, I
 
 + **[King's College London](https://www.kcl.ac.uk/  ): Teaching Assistant**
 
-  I taught first and second year undergraduate courses part-time.
+  I taught undergraduate courses in Computer Science part-time.
 
 ## Cool stuff I've done
 + Helped run an Amateur Esports League called [ATDL SEA](https://x.com/atdl_sea), I'm especially proud of my work producing the livestreams. Shoutouts to [Mei](https://linktr.ee/mei_b_artistic) doing a splendid job running the league.
